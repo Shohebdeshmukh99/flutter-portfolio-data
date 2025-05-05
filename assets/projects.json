@@ -2,7 +2,7 @@
   {
     "image": "https://raw.githubusercontent.com/Shohebdeshmukh99/flutter-portfolio-data/bf7c643ae6d3f9b51788aa69e13686687ca054b1/assets/images/img_2.png",
     "title": "Portfolio Website",
-    "description": "A personal portfolio website built using Flutter Web, showcasing my projects and resume. hello this is the data for my portfolio",
+    "description": "A personal port, showcasing my projects and resume. hello this is the data for my portfolio",
     "github": "https://github.com/yourusername/portfolio",
     "live": "https://yourportfolio.netlify.app"
   },
