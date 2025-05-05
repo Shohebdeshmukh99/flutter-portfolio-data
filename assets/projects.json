@@ -26,5 +26,12 @@
     "description": "A cross-platform task manager app with local storage using SQLite.",
     "github": "https://github.com/yourusername/task-manager",
     "live": "https://taskmanager.netlify.app"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Shohebdeshmukh99/flutter-portfolio-data/bf7c643ae6d3f9b51788aa69e13686687ca054b1/assets/images/img_2.png",
+    "title": "Task Manager",
+    "description": "A cross-platform task manager app with local storage using SQLite.",
+    "github": "https://github.com/yourusername/task-manager",
+    "live": "https://taskmanager.netlify.app"
   }
 ]
