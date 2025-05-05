@@ -1,0 +1,23 @@
+[
+  {
+    "image": "https://example.com/project1.png",
+    "title": "Portfolio Website",
+    "description": "A personal portfolio website built using Flutter Web, showcasing my projects and resume.",
+    "github": "https://github.com/yourusername/portfolio",
+    "live": "https://yourportfolio.netlify.app"
+  },
+  {
+    "image": "https://example.com/project2.png",
+    "title": "Weather App",
+    "description": "A simple weather forecasting app using OpenWeatherMap API and Flutter.",
+    "github": "https://github.com/yourusername/weather-app",
+    "live": "https://weatherapp.netlify.app"
+  },
+  {
+    "image": "https://example.com/project3.png",
+    "title": "Task Manager",
+    "description": "A cross-platform task manager app with local storage using SQLite.",
+    "github": "https://github.com/yourusername/task-manager",
+    "live": "https://taskmanager.netlify.app"
+  }
+]
